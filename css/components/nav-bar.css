@@ -65,7 +65,7 @@
 
 .nav__btn {
   transform: translateY(50px);
-  /* opacity: 0; */
+  opacity: 0;
   animation: appearBtnAnimation 0.3s ease-in-out forwards;
 }
 
